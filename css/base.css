@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    background: var(--bg);
+    color: var(--w);
+    font-family: var(--CR);
+}
+.container{
+    max-width: 1140px;
+    padding: 0 15px;
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+}
+
+:root{
+    --bg:#040D1F;
+    --w:#fff;
+    --lo:#ED8E00;
+    --or:#F18128;
+    --CR:'CR',sans-serif;
+    --CB:'CB',sans-serif;
+    --MR:'MR',sans-serif;
+    --MB:'MB',sans-serif;
+    --RR:'RR',sans-serif;
+    --RM:'RM',sans-serif;
+
+
+}
+
